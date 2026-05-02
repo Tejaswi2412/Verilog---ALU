@@ -23,3 +23,7 @@
 1. Compile: iverilog -o alu alu.v alu_tb.v
 2. Run: vvp alu
 3. Waveform: gtkwave aluwave.vcd
+
+## Waveform 
+  <img width="1566" height="901" alt="alu_waveform" src="https://github.com/user-attachments/assets/64b43c8c-42aa-4f08-a970-aec324ca445a" />
+
